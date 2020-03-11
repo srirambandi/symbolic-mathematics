@@ -5,4 +5,4 @@
 Initiated. Scripts for procedural data generation of binary and mixed expressions as described in the paper are available now.
  
 # Author
-Sri Ram Bandi / [@_srirambandi_](https://twitter.com/_srirambandi_)
+Sri Ram Bandi / [@\_srirambandi\_](https://twitter.com/_srirambandi_)
